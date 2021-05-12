@@ -1,6 +1,5 @@
 const initialState = {
-  message: 'Mars'
-}
+  message: 'Mars',
+};
 
-
-export default initialState
+export default initialState;
